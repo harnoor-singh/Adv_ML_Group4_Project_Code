@@ -1,0 +1,8 @@
+model,training_time
+Single - standard,1.041817545890808
+Single - minmax,1.041817545890808
+Single - robust,1.041817545890808
+Single - maxabs,1.041817545890808
+Uniform Ensemble,4.167270183563232
+Random Forest,13.916261672973633
+Gradient Boosting,10.715924739837646

@@ -1,0 +1,5 @@
+scaler,optimal_weight,uniform_weight
+standard,0.0,0.25
+minmax,0.0,0.25
+robust,0.0,0.25
+maxabs,1.0,0.25

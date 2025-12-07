@@ -1,0 +1,4 @@
+metric,value
+avg_correlation,0.9905109672675381
+avg_disagreement,0.012307692307692353
+avg_prediction_variance,0.00023731966376952212
